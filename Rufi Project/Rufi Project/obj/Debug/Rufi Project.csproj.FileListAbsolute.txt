@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Rufi Project\Rufi Project\bin\Debug\Rufi Project.exe.config
+C:\Users\User\source\repos\Rufi Project\Rufi Project\bin\Debug\Rufi Project.exe
+C:\Users\User\source\repos\Rufi Project\Rufi Project\bin\Debug\Rufi Project.pdb
+C:\Users\User\source\repos\Rufi Project\Rufi Project\obj\Debug\Rufi Project.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Rufi Project\Rufi Project\obj\Debug\Rufi_Project.Form1.resources
+C:\Users\User\source\repos\Rufi Project\Rufi Project\obj\Debug\Rufi_Project.Properties.Resources.resources
+C:\Users\User\source\repos\Rufi Project\Rufi Project\obj\Debug\Rufi Project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Rufi Project\Rufi Project\obj\Debug\Rufi Project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Rufi Project\Rufi Project\obj\Debug\Rufi Project.exe
+C:\Users\User\source\repos\Rufi Project\Rufi Project\obj\Debug\Rufi Project.pdb
